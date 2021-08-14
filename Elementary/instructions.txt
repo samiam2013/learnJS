@@ -9,7 +9,7 @@ https://adriann.github.io/programming_problems.html
 	with their name.
 
 3 Modify the previous program such that only the users Alice and Bob are 
-	greeteid with their names.
+	greeted with their names.
 
 4 Write a program that asks the user for a number n and prints the sum of the 
 	numbers 1 to n
